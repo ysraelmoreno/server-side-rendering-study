@@ -1,0 +1,13 @@
+{
+  "viewsDir": "./pages",
+  "routes": [
+    {
+      "url": "/",
+      "page": "index.html"
+    },
+    {
+      "url": "/nao-encontrado",
+      "page": "404.html"
+    }
+  ]
+}

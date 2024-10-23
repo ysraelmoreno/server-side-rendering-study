@@ -1,0 +1,5 @@
+{
+  "events": {
+    "restart": "tsc ./src/cli/index.ts & node ./src/cli/index.js & pnpm webpack"
+  }
+}
